@@ -5,4 +5,5 @@ Input school, sport, name
 Gemini model returns valuation with logic
 Respons How to Run:
 Put .html files into a templates folder
+Create a credentials.json key for the AI
 deploy the app
