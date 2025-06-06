@@ -1,0 +1,5 @@
+flask
+pandas
+google-cloud-aiplatform
+google-auth
+gunicorn
